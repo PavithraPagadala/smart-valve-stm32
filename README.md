@@ -132,9 +132,7 @@ Embedded Software Engineer | STM32 | LoRa | IoT Protocols | Low Power Firmware
 
 Email: pavithrapagadala25@gmail.com
 
-LinkedIn: www.linkedin.com/in/
-
-pavithra-pagadala-3b52ba254
+LinkedIn: www.linkedin.com/in/pavithra-pagadala-3b52ba254
 
 Location: Andhra Pradesh, India
 
